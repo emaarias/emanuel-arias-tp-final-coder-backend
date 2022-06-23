@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Lavarropas Carga Frontal Sense Inverter Whirlpool",
+    "price": 88999,
+    "thumbnail": "https://images.fravega.com/f300/c44ea16d04e83ee0f93e286acb3e9d6a.jpg.webp",
+    "id": 0
+  },
+  {
+    "title": "Smart TV 50 pulgadas 4K UHD Philips 50PUD7406/77",
+    "price": 75999,
+    "thumbnail": "https://images.fravega.com/f300/0ed80650a543b5031931b25427afb045.jpg.webp",
+    "id": 1
+  },
+  {
+    "title": "Smart TV 50 pulgadas 4K UHD Philips 50PUD7406/77",
+    "price": 75999,
+    "thumbnail": "https://images.fravega.com/f300/0ed80650a543b5031931b25427afb045.jpg.webp",
+    "id": 2
+  },
+  {
+    "title": "Microondas Digital Eco 20 Lts BGH B120DN20",
+    "price": 25999,
+    "thumbnail": "https://images.fravega.com/f300/a82e68ba03dca3b907461fcb1405ef96.jpg.webp",
+    "id": 3
+  },
+  {
+    "title": "Microondas Digital Eco 20 Lts BGH B120DN20",
+    "price": 25999,
+    "thumbnail": "https://images.fravega.com/f300/a82e68ba03dca3b907461fcb1405ef96.jpg.webp",
+    "id": 4
+  },
+  {
+    "title": "Lavarropas Carga Frontal Sense Inverter Whirlpool",
+    "price": 88999,
+    "thumbnail": "https://images.fravega.com/f300/c44ea16d04e83ee0f93e286acb3e9d6a.jpg.webp",
+    "id": 5
+  }
+]
